@@ -1,0 +1,22 @@
+{
+    "users":[{
+        "userID": 1,
+        "name":"Lupita Guzman",
+        "age": 24
+    },
+    {
+        "userID": 2,
+        "name":"Marco Yera ",
+        "age": 24
+    },
+    {
+        "userID": 3,
+        "name":"Giovanni Rosales",
+        "age": 24
+    },
+    {
+        "userID": 4,
+        "name":"Miriam Castillo",
+        "age": 24
+    }
+    ]}
